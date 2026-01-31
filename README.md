@@ -1,4 +1,4 @@
-<h2 align="center"> Hi! I'm DoYeon </h2>
+<h2 align="center"> Hi! I'm BE Developer </h2>
 <p align="center"> 🍋tistory🍋<br/></p>
 
 <p align="center">
